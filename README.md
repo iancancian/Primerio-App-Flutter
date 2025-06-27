@@ -1,16 +1,14 @@
-# primero_app_flutter
+Lembre de selecionar no canto inferior direito, do lado de notificações, onde você deseja emular. 
 
-A new Flutter project.
+1. **Instale Flutter SDK**  
+   https://docs.flutter.dev/get-started/install
 
-## Getting Started
+2. **Instalar dependências do projeto**  
+   ```bash
+   flutter pub get
 
-This project is a starting point for a Flutter application.
+3. **Para rodar o projeto**
+   ```bash
+   flutter run
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Código main em lib/main.dart
